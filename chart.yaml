@@ -1,0 +1,7 @@
+apiVersion: v2
+name: task-skopeo-copy
+version: 0.0.1
+description: |
+  This Task represents Git and is able to copy an image (manifest, filesystem layers, signatures) from one location to another.It's likely to become the second `step`
+  on a Pipeline.
+type: application
